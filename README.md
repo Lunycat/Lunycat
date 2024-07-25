@@ -11,6 +11,7 @@ I live in the city of Volgograd I continuously develop my development skills, re
 
 * 🌍  I'm based in Volgograd
 * ✉️  You can contact me at [lunycat@mail.ru](mailto:lunycat@mail.ru)
+* ✉️  Telegram: [@Lunycat](https://tlgg.ru/Lunycat)
 * 🧠  I'm learning at hexlet
 
 ### Skills
