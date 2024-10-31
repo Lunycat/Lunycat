@@ -27,3 +27,7 @@ I live in the city of Volgograd I continuously develop my development skills, re
 <p align="left">
 <a href="https://www.github.com/Lunycat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> <a href="https://tlgg.ru/Lunycat" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Telegram.png" width="36" height="36" alt="Telegram" /></a>
 </p>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Lunycat/java-project-78" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunycat&repo=java-project-78&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
