@@ -17,8 +17,6 @@ I live in the city of Volgograd I continuously develop my development skills, re
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,postgres,ubuntu,gradle&theme=light)](https://skillicons.dev)
-<a href="https://javalin.io" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Javalin.png" width="36" height="36" alt="Javalin" /></a>
-
 
 ### Socials
 
