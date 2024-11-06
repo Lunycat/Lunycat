@@ -31,3 +31,7 @@ I live in the city of Volgograd I continuously develop my development skills, re
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Lunycat/Validator-library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lunycat&repo=java-Validator-library&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+# TEST
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
