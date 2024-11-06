@@ -21,7 +21,7 @@ I live in the city of Volgograd I continuously develop my development skills, re
 ### Socials
 
 <p align="left">
-<a href="https://tlgg.ru/Lunycat" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Telegram.png" width="36" height="36" alt="Telegram" /></a>
+<a href="https://tlgg.ru/Lunycat" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Telegram.png" width="50" height="50" alt="Telegram" /></a>
 </p>
 
 <b>Top Repositories</b>
