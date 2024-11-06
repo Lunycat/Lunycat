@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-A beginner Java developer. I am currently developing my professional skills. I get to know the world of IT technologies, improve my applied skills, expand my professional horizons by studying technical literature, articles, and video materials.
+Java developer. I've been working with the Javalin framework. I have the following skills and technologies: Java Core, Git, automated testing (JUnit), continuous integration (CI), SQL, PostgreSQL, Gradle, I understand the principles of OOP, I know the basic algorithms and data structures.
 
 I live in the city of Volgograd I continuously develop my development skills, read articles, and watch webinars. I want to develop in the IT field, improve my skills in order to create useful services in a team of like-minded and equally passionate people.
 
