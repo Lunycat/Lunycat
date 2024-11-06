@@ -25,7 +25,7 @@ I live in the city of Volgograd I continuously develop my development skills, re
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/Lunycat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> <a href="https://tlgg.ru/Lunycat" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Telegram.png" width="36" height="36" alt="Telegram" /></a>
+<a href="https://tlgg.ru/Lunycat" target="_blank" rel="noreferrer"><img src="https://github.com/Lunycat/Lunycat/blob/main/images/Telegram.png" width="36" height="36" alt="Telegram" /></a>
 </p>
 
 <b>Top Repositories</b>
